@@ -37,6 +37,6 @@ Throughout these projects, I've utilized a wide array of tools and technologies,
 
 ## Connect with Me
 
-I am always eager to connect with fellow data professionals and enthusiasts. Feel free to reach out to me on [https://www.linkedin.com/in/alvinmhabieb/] or drop me an email at [alvinmhabieb@gmail.com].
+I am always eager to connect with fellow data professionals and enthusiasts. Feel free to reach out to me on Linkedin [https://www.linkedin.com/in/alvinmhabieb/] or drop me an email at [alvinmhabieb@gmail.com].
 
 Thank you for visiting my Data Analytics & Business Intelligence Portfolio. I hope you find these projects insightful and inspiring.
